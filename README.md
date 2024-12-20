@@ -16,10 +16,4 @@
 
 
 
-### Socials:
-[![LinkedIn](https://www.linkedin.com/in/atamjonraximov/)](https://www.linkedin.com/in/joseconejerosivo/)
-[![Instagram](https://www.instagram.com/atamjon_raximov/)](https://www.instagram.com/)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=JCSIVO)
